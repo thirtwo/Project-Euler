@@ -5,7 +5,7 @@ namespace Project_Euler
     class Multiplesof3or5
     {
        
-        static void Main(string[] args)
+        public static void Find()
         {
             Console.WriteLine(FindSumOf3Or5Multiples(1000));
         }

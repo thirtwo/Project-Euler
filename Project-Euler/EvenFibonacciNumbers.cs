@@ -4,7 +4,7 @@ namespace Project_Euler
 {
     class EvenFibonacciNumbers
     {
-        static void Main(string[] args)
+        public static void Find()
         {
             Console.WriteLine(FindSumOfEvenFibonacciNumbers(4000000));
         }
