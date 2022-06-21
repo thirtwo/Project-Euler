@@ -6,7 +6,7 @@ namespace Project_Euler
     {
         static void Main(string[] args)
         {
-            LargestPrimeFactor.Find();
+            LargestPalindromeProduct.Find();
         }
     }
 }
